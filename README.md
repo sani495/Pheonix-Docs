@@ -4,7 +4,7 @@
 </p>
 
 
-<div align="center">
+<div align="left">
   <b>Pheonix is a small customizable discord bot that is under the main category of Economy.</b>
 </div>
 
@@ -16,11 +16,17 @@
 
 <div align="center">
 
-[![AoiJS Server][aoijs-server]][aoijs-server-url] &nbsp; &nbsp;
+[![Sani's Support Server][support-server]][server-server-link] &nbsp; &nbsp;
 
-[aoijs-server]: https://img.shields.io/discord/773352845738115102?color=5865F2&logo=discord&logoColor=white
+[![Community Server][hermitage-image]][hermitage-server] &nbsp; &nbsp;
 
-[aoijs-server-url]: https://discord.gg/HMUfMXDQsV
+[hermitage-server]: https://discord.gg/aENq7FbyKv
+
+[hermitage-image]: https://img.shields.io/discord/1117676735165640767?color=5865F2&logo=discord&logoColor=white
+
+[support-server]: https://img.shields.io/discord/1119233466706432112?color=5865F2&logo=discord&logoColor=white
+
+[server-server-link]: https://discord.gg/VuNn7bQD4F
 
   </div>
 
