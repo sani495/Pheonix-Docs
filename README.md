@@ -4,30 +4,29 @@
 </p>
 
 
-<div align="left">
+<div align="center">
   <b>Pheonix is a small customizable discord bot that is under the main category of Economy.</b>
 </div>
 
----
-
-# Support Servers
+# Connections
 
 <br/>
 
 <div align="center">
 
-[![Sani's Support Server][support-server]][server-server-link] &nbsp; &nbsp;
-
-[![Community Server][hermitage-image]][hermitage-server] &nbsp; &nbsp;
-
-[hermitage-server]: https://discord.gg/aENq7FbyKv
-
-[hermitage-image]: https://img.shields.io/discord/1117676735165640767?color=5865F2&logo=discord&logoColor=white
-
-[support-server]: https://img.shields.io/discord/1119233466706432112?color=5865F2&logo=discord&logoColor=white
-
-[server-server-link]: https://discord.gg/VuNn7bQD4F
+**[ Support Server ](https://discord.gg/VuNn7bQD4F)**  |  **[ Community Server ](https://discord.gg/aENq7FbyKv)**  |  **[ Invite The bot ](https://discord.com/oauth2/authorize?client_id=1157802630190477374&permissions=1082600717488&scope=bot)**
 
   </div>
 
 <br />
+
+## Bot Status Menu
+
+<div align="left">
+    🟢 
+    🌙
+    ⛔️
+    ⚪️
+</div>
+
+---
