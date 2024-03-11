@@ -4,9 +4,15 @@
 </p>
 
 
+---
+
+# About The Bot
+
 <div align="center">
   <b>Pheonix is a small customizable discord bot that is under the main category of Economy.</b>
 </div>
+
+---
 
 # Connections
 
@@ -17,6 +23,15 @@
 **[ Support Server ](https://discord.gg/VuNn7bQD4F)**  |  **[ Community Server ](https://discord.gg/aENq7FbyKv)**  |  **[ Invite The bot ](https://discord.com/oauth2/authorize?client_id=1157802630190477374&permissions=1082600717488&scope=bot)**
 
   </div>
+
+# Get Started
+
+<div align="left">
+
+Getting started is pretty easy. All you have to do is use the help menu to see or/and use the following commands to the corresponding bot. 
+
+</div>
+
 
 <br />
 
@@ -58,3 +73,5 @@
 **The offline indicator just show the the bot is not available at the moment. This display is either a just the hosting services resetting itself or the bot going through a resetting process caused by the developer. When this happens, don't panic! This doesn't effect your progress.**
 
 ---
+
+# The main developer
