@@ -74,4 +74,11 @@ Getting started is pretty easy. All you have to do is use the help menu to see o
 
 ---
 
-# The main developer
+# Da Dev
+
+<div align="left">
+    <img width="150" src="https://cdn.discordapp.com/attachments/1216592059176325160/1216598488503292006/Untitled686_20240310203613.png?ex=6600f8a2&is=65ee83a2&hm=ced59db50725e9577a9e0d1f17b41acb5a09083d6b5e0bd57b156b5f0dfcdadb&">
+
+**Lucid_c0de5** (Main dev, Logo Designer, Document Manager)
+
+</div>
